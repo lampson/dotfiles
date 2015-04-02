@@ -47,6 +47,7 @@ brew cask install flash
 brew cask install iterm2
 brew cask install macpass
 brew cask install optimal-layout
+brew cask install quicklook-json
 brew cask install puppet
 brew cask install skype
 brew cask install sublime-text3
