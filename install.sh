@@ -36,9 +36,9 @@ brew install wget
 echo "Install OSX Apps"
 brew cask install atom
 brew cask install boot2docker
-brew cask install puppet
 brew cask install coda
 brew cask install codebug
+brew cask install dropbox
 brew cask install evernote
 brew cask install kaleidoscope
 brew cask install google-chrome
@@ -46,9 +46,12 @@ brew cask install firefox
 brew cask install iterm2
 brew cask install macpass
 brew cask install optimal-layout
+brew cask install puppet
 brew cask install skype
 brew cask install sublime-text3
 brew cask install terraform
+brew cask install transmit
+brew cask install transmission
 brew cask install tower
 brew cask install vagrant
 brew cask install virtualbox
