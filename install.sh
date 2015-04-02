@@ -43,6 +43,7 @@ brew cask install evernote
 brew cask install kaleidoscope
 brew cask install google-chrome
 brew cask install firefox
+brew cask install flash
 brew cask install iterm2
 brew cask install macpass
 brew cask install optimal-layout
