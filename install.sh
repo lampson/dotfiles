@@ -24,6 +24,8 @@ brew install hugo
 brew install go
 brew install mercurial
 brew install npm
+brew install trash
+brew install sshfs
 brew install tree
 brew install rbenv
 brew install ruby-build
